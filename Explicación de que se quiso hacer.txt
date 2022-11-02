@@ -1,0 +1,7 @@
+Para el modulo se quisieron insertar los datos de tal manera que 
+en materia se pudieran seleccionar las materias de manera abierta,
+para los hoarios se quisieron usar listas desplegables con respuestas
+cerradas para despues hacer las comparaciones en sql y asi no repetir 
+horas y dias de la semana. Se logró hacer la primera parte por los 
+inconvenientes presentados. Muchas gracias.
+ 
